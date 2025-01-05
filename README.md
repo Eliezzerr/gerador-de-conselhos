@@ -1,5 +1,5 @@
 
-# Intrudução
+# Introdução
 Este projeto foi criado para ilustrar o layout de um site gerador de conselhos, assim que o usuário clicar no dado a baixo do conselho ele gera um novo.
 
 # Layout
